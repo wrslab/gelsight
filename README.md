@@ -1,1 +1,1 @@
-# gelsight
+# GelSight Sensor
