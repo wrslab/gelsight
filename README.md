@@ -1,6 +1,6 @@
 # Gelsight_controller
 
-The part of Gelsight fabrication is included in [How to Make a Gelsight Sensor](https://www.notion.so/How-to-Make-a-Gelsight-Sensor-c051c668869e445690964c401197c212)
+The part of Gelsight fabrication is included in [How to Make a Gelsight Sensor](https://goo.su/bMrBSP6)
 
 This package is for calibrating and applying a Gelsight sensor of Osaka version.
 
